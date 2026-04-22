@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StarsGallery" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#C62828</item>
+        <item name="colorPrimaryDark">#8E0000</item>
+        <item name="colorAccent">#FF5252</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+    </style>
+</resources>
